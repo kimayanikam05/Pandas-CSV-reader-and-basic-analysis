@@ -2,6 +2,7 @@
 
 A beginner-friendly Data Science project built using Pandas for reading, analyzing, filtering, and exporting CSV data efficiently.
 
+
 🚀 Project Highlights
 
 i) Read CSV files using Pandas
@@ -23,6 +24,7 @@ ii)Pandas
 
 iii)Jupyter Notebook 
 
+
 📊 Data Analysis
 
 i)Mean
@@ -35,9 +37,11 @@ iv)Maximum Value
 
 v)Record Count
 
+
 🔍 Data Filtering
 
 Filter records based on conditions for better analysis.
+
 
 💾 Export Process
 
@@ -46,6 +50,7 @@ Save filtered data into:
 i)CSV File
 
 ii)Excel File
+
 
 🎯 Skills Learned
 
