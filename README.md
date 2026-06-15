@@ -9,33 +9,33 @@ i) Read CSV files using Pandas
 
 ii) Perform basic statistical analysis
 
-iii)Filter important records
+iii) Filter important records
 
-iv)Export cleaned data to CSV & Excel
+iv) Export cleaned data to CSV & Excel
 
-v)Beginner-friendly and easy to understand
+v) Beginner-friendly and easy to understand
 
 
 🛠️ Technologies Used
 	
-i)Python
+i) Python
 
-ii)Pandas 	
+ii) Pandas 	
 
-iii)Jupyter Notebook 
+iii) Jupyter Notebook 
 
 
 📊 Data Analysis
 
-i)Mean
+i) Mean
 
-ii)Median
+ii) Median
 
-iii)Minimum Value
+iii) Minimum Value
 
-iv)Maximum Value
+iv) Maximum Value
 
-v)Record Count
+v) Record Count
 
 
 🔍 Data Filtering
@@ -47,9 +47,9 @@ Filter records based on conditions for better analysis.
 
 Save filtered data into:
 
-i)CSV File
+i) CSV File
 
-ii)Excel File
+ii) Excel File
 
 
 🎯 Skills Learned
