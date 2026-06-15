@@ -37,7 +37,11 @@ Excel file
 🎯 Learning Outcomes
 Through this project, I learned:
 Data handling using Pandas
+
 CSV file operations
+
 Basic data analysis techniques
+
 Data filtering
+
 Exporting datasets
