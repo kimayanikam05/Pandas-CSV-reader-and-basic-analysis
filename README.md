@@ -1,50 +1,42 @@
-📊 Pandas CSV Reader and Basic Analysis
-A beginner-friendly Data Science project built using Pandas and Python for reading, analyzing, filtering, and exporting CSV data.
+📊 Pandas CSV Reader & Basic Analysis
 
-🚀 Project Overview
-This project demonstrates how to:
+A beginner-friendly Data Science project built using Pandas for reading, analyzing, filtering, and exporting CSV data efficiently.
 
-i) Read CSV files using Pandas
+🚀 Project Highlights
 
-ii) Display dataset information
-
-iii) Perform basic statistical analysis
-
-iv) Filter useful records
-
-v) Export filtered data into CSV & Excel formats
+✨ Read CSV files using Pandas
+✨ Perform basic statistical analysis
+✨ Filter important records
+✨ Export cleaned data to CSV & Excel
+✨ Beginner-friendly and easy to understand
 
 🛠️ Technologies Used
-
-Python 
-
-Pandas
-
-Jupyter Notebook
+Technology	Purpose
+Python 🐍	Programming Language
+Pandas 📊	Data Analysis
+Jupyter Notebook 📓	Project Development
 
 📊 Data Analysis
-i)Mean
-ii)Median
-iii)Minimum Value
-iv)Maximum Value
-v)Count of records
-
+Mean
+Median
+Minimum Value
+Maximum Value
+Record Count
 🔍 Data Filtering
-Filter records based on condition 
 
-💾 Export Files
-Save filtered data as:
-CSV file
-Excel file
+Filter records based on conditions for better analysis.
 
-🎯 Learning Outcomes
-Through this project, I learned:
-Data handling using Pandas
+💾 Export Process
 
-CSV file operations
+Save filtered data into:
 
-Basic data analysis techniques
+CSV File
+Excel File
 
-Data filtering
+🎯 Skills Learned
 
-Exporting datasets
+✅ Data Cleaning
+✅ CSV Handling
+✅ Data Analysis
+✅ Pandas Operations
+✅ Exporting Data
