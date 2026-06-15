@@ -5,9 +5,13 @@ A beginner-friendly Data Science project built using Pandas and Python for readi
 This project demonstrates how to:
 
 ✅ Read CSV files using Pandas
+
 ✅ Display dataset information
+
 ✅ Perform basic statistical analysis
+
 ✅ Filter useful records
+
 ✅ Export filtered data into CSV & Excel formats
 
 🛠️ Technologies Used
