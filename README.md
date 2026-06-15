@@ -15,16 +15,19 @@ iv) Filter useful records
 v) Export filtered data into CSV & Excel formats
 
 🛠️ Technologies Used
+
 Python 
+
 Pandas
+
 Jupyter Notebook
 
 📊 Data Analysis
-Mean
-Median
-Minimum Value
-Maximum Value
-Count of records
+i)Mean
+ii)Median
+iii)Minimum Value
+iv)Maximum Value
+v)Count of records
 
 🔍 Data Filtering
 Filter records based on condition 
